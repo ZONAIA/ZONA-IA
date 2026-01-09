@@ -1,0 +1,9 @@
+{
+  "name": "ZONA IA - Consultoría Industrial",
+  "description": "Plataforma avanzada de inteligencia artificial para la consulta técnica de elementos industriales, diagnósticos de maquinaria y localización de proveedores.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
